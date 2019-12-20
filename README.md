@@ -1,6 +1,6 @@
 # notetake
 
-# Unit 11 Express Homework: Note Taker
+## Unit 11 Express Homework: Note Taker
 
 ## Description
 
@@ -74,12 +74,7 @@ You are required to submit the following:
 
 * The URL of the GitHub repository
 
-
-
-
-
-
-# Deploying a Node Web Server to Heroku
+## Deploying a Node Web Server to Heroku
 
 This guide walks through the necessary steps to deploy your full stack Node.js application to Heroku!
 
@@ -139,7 +134,7 @@ To begin with, you'll need a git repository initialized locally with your basic 
    ```
 
 6. Ensure your web server is starting with a dynamic port.
-   
+
    * For an express app, the code for this would look like:
 
    ```js
